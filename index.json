@@ -1,20 +1,20 @@
 [
   {
-    "name": "Aniyomi: Anime4up",
-    "pkg": "eu.kanade.tachiyomi.animeextension.ar.anime4up",
-    "apk": "aniyomi-ar.anime4up-v14.55.apk",
-    "lang": "ar",
+    "name": "Aniyomi: Xnxx.com",
+    "pkg": "eu.kanade.tachiyomi.animeextension.all.xnxx",
+    "apk": "aniyomi-all.xnxx-v14.55.apk",
+    "lang": "all",
     "code": 55,
     "version": "14.55",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Anime4Up",
-        "lang": "ar",
+        "name": "Xnxx.com",
+        "lang": "all",
         "id": "528782559387795213",
-        "baseUrl": "https://anime4up.cam",
+        "baseUrl": "https://xnxx.com",
         "versionId": 1
       }
     ]
