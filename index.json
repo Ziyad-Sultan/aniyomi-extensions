@@ -4324,5 +4324,25 @@
         "versionId": 1
       }
     ]
-  }
+  },
+  {
+    "name": "Aniyomi: Shahid4u",
+    "pkg": "eu.kanade.tachiyomi.animeextension.ar.shed4u1",
+    "apk": "aniyomi-ar.shed4u1-v14.1.apk",
+    "lang": "ar",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Shahid4u",
+        "lang": "ar",
+        "id": "",
+        "baseUrl": "https://shed4u1.cam/",
+        "versionId": 1
+      }
+  ]
+ }
 ]
